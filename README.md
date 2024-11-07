@@ -1,4 +1,4 @@
-﻿# Playwright-TS_PHC_CAlculadora ERR
+﻿# Playwright---RIPS---E2E
 
 ## Pasos para clonar e instalar un proyecto de Playwright en VSCode
 
